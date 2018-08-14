@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 16 04:13:18 CST 2018
+javax.websocket-api-1.1-sources.jar>nexus-aliyun=
+javax.websocket-api-1.1-javadoc.jar>nexus-aliyun=
+javax.websocket-api-1.1.pom>nexus-aliyun=
+javax.websocket-api-1.1.jar>nexus-aliyun=

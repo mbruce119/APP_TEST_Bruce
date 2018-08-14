@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jul 13 13:01:47 CST 2018
+byte-buddy-1.8.3.pom>nexus-aliyun=
+byte-buddy-1.8.3.jar>nexus-aliyun=
+byte-buddy-1.8.3-sources.jar>nexus-aliyun=
+byte-buddy-1.8.3-javadoc.jar>nexus-aliyun=

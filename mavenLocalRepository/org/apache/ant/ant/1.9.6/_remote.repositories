@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jul 13 12:59:30 CST 2018
+ant-1.9.6-sources.jar>nexus-aliyun=
+ant-1.9.6-javadoc.jar>nexus-aliyun=
+ant-1.9.6.pom>nexus-aliyun=
+ant-1.9.6.jar>nexus-aliyun=

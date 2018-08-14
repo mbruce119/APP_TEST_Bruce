@@ -1,0 +1,6 @@
+launchable-activity: name='com.nonoapp.module.operation.launch.ui.SplashActivity'
+
+
+package: name='com.nonoapp' versionCode='104' versionName='6.5.2' platformBuildVersionName='8.0.0'
+sdkVersion:'14'
+targetSdkVersion:'15'

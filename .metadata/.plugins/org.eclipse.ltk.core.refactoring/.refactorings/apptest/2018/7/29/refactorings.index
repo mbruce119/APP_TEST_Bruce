@@ -1,0 +1,14 @@
+1531674778829	Rename type 'AppiumCommonOperation'
+1531674892766	Rename package 'com.bruce.common.operation'
+1531674949114	Rename type 'AppiumCommonPageOperation'
+1531836286136	Move file
+1531836359698	Rename resource 'Untitled 1'
+1531836370382	Rename resource '备注'
+1531839739523	Rename package 'com.bruce.common.operation.and.location'
+1531841348253	Rename type 'OpreationInterface'
+1531845185617	Rename type 'OperationInterface'
+1531845262130	Rename type 'ElementOperation'
+1531845300055	Rename type 'AppiumCommonFunction'
+1531845336596	Rename type 'ElementLocator'
+1531845680112	Delete element
+1531846533713	Rename type 'ElemenrOperationFunction'
